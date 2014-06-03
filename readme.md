@@ -4,10 +4,10 @@ Adds an extend method to the Laravel-4 router allowing you to add custom route e
 
 ## Installation
 
-Begin by installing this package through Composer. Edit your project's `composer.json` file to require `AMHOL/extendable-routing`.
+Begin by installing this package through Composer. Edit your project's `composer.json` file to require `amhol/extendable-routing`.
 
     "require": {
-        "AMHOL/extendable-routing": "1.*"
+        "amhol/extendable-routing": "1.*"
     }
 
 Next, update Composer from the Terminal:
