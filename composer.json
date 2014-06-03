@@ -1,0 +1,24 @@
+{
+    "name": "AMHOL/extendable-routing",
+    "description": "Adds an extend method to the Laravel-4 router allowing you to add custom route extensions",
+    "authors": [
+        {
+            "name": "Andy Holland",
+            "email": "andyholland1991@aol.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/routing": "~4.0",
+        "illuminate/events": "~4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~3.7"
+    },
+    "autoload": {
+        "psr-0": {
+            "AMHOL\\ExtendableRouting": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
