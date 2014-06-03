@@ -1,5 +1,5 @@
 {
-    "name": "AMHOL/extendable-routing",
+    "name": "amhol/extendable-routing",
     "description": "Adds an extend method to the Laravel-4 router allowing you to add custom route extensions",
     "authors": [
         {
